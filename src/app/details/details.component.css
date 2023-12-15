@@ -1,0 +1,13 @@
+.person {
+    text-align: center;
+    border: 1px solid black;
+    width: 40%;
+    margin: 5%;
+    padding: 1%;
+  }
+  
+dl {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 0px;
+}

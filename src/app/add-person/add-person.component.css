@@ -1,0 +1,21 @@
+form {
+    width: 500px;
+    padding:2%;
+  }
+  
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+  
+.form-row input {
+    width: 250px;
+}
+  
+form button {
+    width: 80px;
+    height: 30px;
+    color: white;
+    background-color:dodgerblue;
+}
