@@ -1,0 +1,26 @@
+header{
+    color: white;
+    background-color:darkslateblue;
+    margin: 0px;
+}
+
+h1{
+    margin: 0px;
+    padding: 1%;
+}
+
+footer{
+    color: white;
+    background-color: darkslategrey;
+    margin: 0;
+    position:fixed;
+    bottom:0px;
+    width: 100%;
+    padding: 1%;
+}
+
+header nav {
+    color: white;
+    display: flex;
+    gap: 1em;
+  }
