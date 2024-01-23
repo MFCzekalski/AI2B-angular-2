@@ -1,4 +1,2 @@
-body {
-    background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=49227");
-    margin: 0;
-}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
